@@ -1,6 +1,6 @@
-# bysontech.jp
+# BysonTech
 
-BysonTech official site. ShareList and other personal projects (Privacy Policy, Terms).
+Official site. ShareList and other personal projects (Privacy Policy, Terms).
 
 ## ShareList
 
